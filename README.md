@@ -1,3 +1,4 @@
+# LAN-Intercom
 局域网对讲
 基于局域网 UDP 信令的语音对讲 Android 应用，支持 PTT（Push-to-Talk）半双工模式，采用 MiuiX 风格 UI。
 功能特性
@@ -187,4 +188,3 @@ AudioRecord / AudioTrack + AEC/NS/AGC
 Vulkan 图形渲染支持
 版本
 当前版本：1.0 Beta
-# LAN-Intercom
